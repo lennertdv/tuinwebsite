@@ -7,9 +7,9 @@ import AnimatedPage from '../components/AnimatedPage';
 import AnimatedSection from '../components/AnimatedSection';
 
 const values = [
-    { icon: '🌿', title: 'Kwaliteit', description: 'Wij gebruiken enkel de beste materialen en planten voor een duurzaam en prachtig resultaat.' },
-    { icon: '🤝', title: 'Betrouwbaarheid', description: 'Afspraak is afspraak. U kunt rekenen op onze punctualiteit en heldere communicatie.' },
-    { icon: ' expertise', title: 'Ervaring', description: 'Met jarenlange ervaring en vakkennis realiseren wij elke tuindroom, groot of klein.' },
+    { title: 'Kwaliteit', description: 'Wij gebruiken enkel de beste materialen en planten voor een duurzaam en prachtig resultaat.' },
+    { title: 'Betrouwbaarheid', description: 'Afspraak is afspraak. U kunt rekenen op onze punctualiteit en heldere communicatie.' },
+    { title: 'Ervaring', description: 'Met jarenlange ervaring en vakkennis realiseren wij elke tuindroom, groot of klein.' },
 ];
 
 const testimonials = [
